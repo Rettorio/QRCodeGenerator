@@ -62,21 +62,21 @@
 
 @font-face {
     font-family: 'Roboto';
-    src: url('/asset/roboto_regular.ttf') format('truetype');
+    src: url('/QRCodeGenerator/asset/roboto_regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'RobotoMedium';
-    src: url('/asset/roboto_medium.ttf') format('truetype');
+    src: url('/QRCodeGenerator/asset/roboto_medium.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'fancy';
-    src: url('/asset/shadowsintolighttwo.ttf') format('truetype');
+    src: url('/QRCodeGenerator/asset/shadowsintolighttwo.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
